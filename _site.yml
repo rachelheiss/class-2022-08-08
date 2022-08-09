@@ -1,8 +1,8 @@
-name: "."
+name: "class-2022-08-08"
 title: "Economic Connectedness"
 description: |
   Economic Connectedness
-output_dir: "docs"
+output_dir: "_site"
 navbar:
   right:
     - text: "Home"
